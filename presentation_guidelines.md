@@ -16,7 +16,7 @@ The goal of the presentation is to give us (and your fellow students) insights a
 
 ## Keep in mind while preparing your presentation
 
-* Rehearse your presentation to make sure everyone is speaking clearly, making eye contact with the audience, and finishing the presentation on time. The target is 8 minutes.
+* Rehearse your presentation to make sure everyone is speaking clearly, making eye contact with the audience, and finishing the presentation on time. The target is 7 minutes.
 * Don't put a lot of words on your slides. Since you will be explaining verbally, the slides should mostly feature visual aids (diagrams, charts, etc.) that accompany what you say.
 * Don't write a script and then read it. Make a few notes to yourself on a 3-by-5 index card to remind you of the main points, but speak to your audience, don't read to them off a page. It is worth rehearsing multiple times until you are comfortable doing this!
 

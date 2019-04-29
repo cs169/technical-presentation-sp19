@@ -8,7 +8,7 @@ suspicious of should still get a good review.)
 
 ## Presenting Team
 
-The presenting team will give a roughly 8 minute presentation on the
+The presenting team will give a roughly 7 minute presentation on the
 main technical challenges faced in their project.
 
 The presentation does **not** need to include an overview of the
@@ -33,11 +33,8 @@ multiple times until you are comfortable with this:
 
 ## Reviewing Team
 
-Each member of the reviewing team will take careful notes during the
-presentation and collate their notes afterward, so that each reviewing
-team presents a single review.
-
-The review should address at least the following:
+The review should rate the presentation according to the categories in the table,
+and be accompanied by a short (paragraph or two) narrative addressing at least the following:
 
 * Did the presentation feel like it had been rehearsed?  For example,  
 did the speaker(s) make
