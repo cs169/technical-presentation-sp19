@@ -1,7 +1,5 @@
 # Technical Presentation Guidelines
 
-Your technical presentation should include only a brief overview of the customer need, since the reviewing team(s) will have obtained this information before the presentation, either by watching recorded interviews or inspecting other project documentation.
-
 The goal of the presentation is to give us (and your fellow students) insights about your process, not about your final product.
 
 ## Main points you should cover
