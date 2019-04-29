@@ -11,11 +11,6 @@ suspicious of should still get a good review.)
 The presenting team will give a roughly 7 minute presentation on the
 main technical challenges faced in their project.
 
-The presentation does **not** need to include an overview of the
-customer need, since the reviewing team(s) will have obtained this
-information before the presentation, either by watching recorded
-interviews or inspecting other project documentation.
-
 To keep in mind while preparing your presentation:
 
 * Rehearse your presentation to make sure everyone is speaking clearly,
