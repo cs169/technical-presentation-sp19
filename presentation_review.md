@@ -31,7 +31,11 @@ on a 3-by-5 index card to remind you of the main points, but speak to
 your audience, don't read to them off a page.  It is worth rehearsing
 multiple times until you are comfortable with this:
 
-## Reviewing Team
+## Reviews
+Each student will review 4 other teams.  If you are in an odd-numbered team (Team 1, Team 3, ...),
+you will review other odd-numbered teams.  If you are in an even-numbered team (Team 2, Team 4, ...),
+you will review other even-numbered teams.
+
 
 The review should rate the presentation according to the categories in the table,
 and be accompanied by a short (paragraph or two) narrative addressing at least the following:
