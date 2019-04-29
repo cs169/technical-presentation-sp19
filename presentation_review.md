@@ -27,10 +27,13 @@ your audience, don't read to them off a page.  It is worth rehearsing
 multiple times until you are comfortable with this:
 
 ## Reviews
-Each student will review 4 other teams.  If you are in an odd-numbered team (Team 1, Team 3, ...),
-you will review other odd-numbered teams.  If you are in an even-numbered team (Team 2, Team 4, ...),
-you will review other even-numbered teams.
+Each team will review 4 other teams.  We have four review groups to give enough time for you to write reviews:
 
+- Team 1, 3, 5, 12, 14
+- Team 2, 4, 11, 13, 15
+- Team 6, 8, 10, 17, 19
+- Team 7, 9, 16, 18, 20
+You will review all other teams in the same group.  For example, if you are in Team 11, you should review Team 2, 4, 13, and 15.
 
 The review should rate the presentation according to the categories in the table,
 and be accompanied by a short (paragraph or two) narrative addressing at least the following:
